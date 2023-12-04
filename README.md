@@ -10,6 +10,8 @@ I'm a passionate mathematicican mathematics graduate with an M.Sc. in Theoretica
 <img align="left" width="70px" height="70px" alt="Python"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="R- Studio" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="TensorFlow" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="mssql" width="70px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
+ <img align="left"  alt="c" width="70px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="Excel" width="70px" style="padding-right:10px;" src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo-500x313.png" />
 <br>
 <br />
