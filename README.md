@@ -11,7 +11,7 @@ I'm a passionate mathematicican mathematics graduate with an M.Sc. in Theoretica
 <img align="left" alt="R- Studio" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
 <img align="left" alt="TensorFlow" width="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="C" width="70px" style="[padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="SQL" width="90px" height="70px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+<img align="left" alt="SQL" width="90px" height="70px" style="padding-right:10px;" src="https://www.microsoft.com/en-us/sql-server" />
 <img align="left" alt="Excel" width="70px" style="padding-right:10px;" src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo-500x313.png" />
 <br>
 <br />
