@@ -2,7 +2,6 @@
 <h3 align="center">I'm a mathematics graduate with an M.Sc. in Theoretical Computer Science and Control Theory. I've found my passion in data science, aiming to make meaningful contributions in this field.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/MelinaSoula&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/MelinaSoula" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/MelinaSoula&theme=" alt="https://github.com/MelinaSoula" /></a> </p>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/melina-soula" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/https://github.com/MelinaSoula" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
