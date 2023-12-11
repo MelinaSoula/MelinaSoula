@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Melina.
 
-I'm a passionate mathematicican mathematics graduate with an M.Sc. in Theoretical Computer Science and Control Theory. I've found my passion in Data Science and Artificial Intelligence, aiming to make meaningful contributions in this field.
+I'm a passionate mathematicican, with a M.Sc. in Theoretical Computer Science and Control Theory. I've found my passion in Data Science and Artificial Intelligence, aiming to make meaningful contributions in this field.
 
 
 ---
